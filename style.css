@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    background-color: hsla(60, 89%, 65%, 0.773);
+}
+
+h1 {
+    font-size: 5rem;
+    color: rgb(195, 25, 82);
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+
+  .container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .box{
+    height: 30px;
+    width: 250px;
+    margin: 18px 15px;
+    border: solid 2px #DA0463;
+    border-radius: 3px;
+  }
+
+  .sub{
+    height: 40px;
+    width: 100px;
+    font-size: 1.5rem;
+    background-color: hsl(0, 61%, 58%);
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 3px 3px hsla(0, 100%, 50%, 0.288);
+  }
+
+  .thala1
+  {
+    position: absolute;
+    top: 25%;
+
+  }
+  .thala2
+  {
+    position: absolute;
+    top: 25%;
+    left: 80%;
+  }
+
+  .hide
+  {
+    visibility: hidden;
+  }
+
+  .show
+  {
+    visibility: visible;
+  }
